@@ -1,0 +1,75 @@
+{
+  "companyName": "LeadMagic",
+  "companyId": 75153174,
+  "locations": [
+    {
+      "country": "US",
+      "city": "Boston",
+      "geographicArea": "Massachusetts",
+      "postalCode": "02210",
+      "line1": "1 Seaport Ln",
+      "line2": null,
+      "description": "Headquarters",
+      "headquarter": true,
+      "localizedName": "Boston",
+      "latitude": 42.36041,
+      "longitude": -71.05798
+    }
+  ],
+  "employeeCount": 9,
+  "specialities": [
+    "Sales",
+    "Marketing",
+    "ABM",
+    "RevOps"
+  ],
+  "employeeCountRange": {
+    "start": 11,
+    "end": 50
+  },
+  "tagline": "LeadMagic tells you who is interested in your products or services. Engage them and build more pipeline, win more deals",
+  "followerCount": 4663,
+  "industry": "Internet",
+  "description": "LeadMagic tells you exactly what businesses are on your website and helps you enrich your contact and company data.",
+  "websiteUrl": "https://leadmagic.io",
+  "headquarter": {
+    "country": "US",
+    "city": "Boston",
+    "geographicArea": "Massachusetts",
+    "postalCode": "02210",
+    "line1": "1 Seaport Ln",
+    "line2": null,
+    "description": "Headquarters"
+  },
+  "foundedOn": {
+    "month": null,
+    "year": 2022,
+    "day": null
+  },
+  "universalName": "leadmagichq",
+  "hashtag": "#abm",
+  "url": "https://www.linkedin.com/company/leadmagichq/",
+  "logo_url": "https://logo.leadmagic.io/leadmagic.io",
+  "founded_year": "2009",
+  "ownership_status": "Private",
+  "revenue": 5100000000,
+  "revenue_formatted": "5.1B",
+  "employee_range": "5,000 - 10,000",
+  "total_funding": "9.8B",
+  "funding_rounds": 5,
+  "last_funding_round": "Equity",
+  "last_funding_amount": 694159778,
+  "last_funding_date": "Apr 2024",
+  "competitors": [
+    "Rapyd",
+    "Square",
+    "PayPal",
+    "Clover",
+    "Payment Depot"
+  ],
+  "acquisitions_count": 3,
+  "twitter_url": "https://twitter.com/stripe",
+  "linkedin_url": "https://www.linkedin.com/company/stripe",
+  "facebook_url": "https://www.facebook.com/stripe",
+  "stock_ticker": "STRP"
+}
