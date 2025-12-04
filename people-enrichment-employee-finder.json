@@ -1,0 +1,29 @@
+{
+  "message": "Data found for the given comapny.",
+  "total_count": 402,
+  "returned_count": 20,
+  "credits_consumed": 1,
+  "data": [
+    {
+      "first_name": "Suzanne",
+      "last_name": "Quentin",
+      "title": "Director, Talent Development",
+      "website": "http://www.gong.io",
+      "company_name": "Gong"
+    },
+    {
+      "first_name": "Brea",
+      "last_name": "Porter",
+      "title": "Senior Product Manager",
+      "website": "http://www.gong.io",
+      "company_name": "Gong"
+    },
+    {
+      "first_name": "Damian",
+      "last_name": "Cowell",
+      "title": "Sr Director of Product Management",
+      "website": "http://www.gong.io",
+      "company_name": "Gong"
+    }
+  ]
+}
