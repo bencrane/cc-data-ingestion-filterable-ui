@@ -1,0 +1,70 @@
+{
+  "total_count": 50,
+  "page": 1,
+  "per_page": 20,
+  "total_pages": 3,
+  "credits_consumed": 20,
+  "results": [
+    {
+      "company": {
+        "name": "Microsoft",
+        "website_url": "https://www.microsoft.com/",
+        "linkedin_url": "https://www.linkedin.com/company/microsoft/",
+        "twitter_handle": "Microsoft",
+        "github_url": "https://github.com/microsoft"
+      },
+      "title": "Senior Support Engineer - Developer Messaging",
+      "location": "San Jose, San José, Costa Rica",
+      "types": [
+        {
+          "id": 1,
+          "name": "Full Time"
+        }
+      ],
+      "cities": [
+        {
+          "geonameid": 3621849,
+          "asciiname": "San Jose",
+          "name": "San José",
+          "country": {
+            "code": "CR",
+            "name": "Costa Rica",
+            "region": {
+              "id": 5,
+              "name": "North America"
+            }
+          },
+          "timezone": "America/Costa_Rica",
+          "latitude": "9.93333",
+          "longitude": "-84.08333"
+        }
+      ],
+      "countries": [
+        {
+          "code": "CR",
+          "name": "Costa Rica",
+          "region": {
+            "id": 5,
+            "name": "North America"
+          }
+        }
+      ],
+      "regions": [
+        {
+          "id": 5,
+          "name": "North America"
+        }
+      ],
+      "has_remote": false,
+      "published": "2024-07-23T15:25:00Z",
+      "description": "",
+      "application_url": "https://jobs.careers.microsoft.com/global/en/job/1743018/",
+      "language": "en",
+      "clearance_required": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": null,
+      "experience_level": "Senior Level"
+    }
+  ]
+}
