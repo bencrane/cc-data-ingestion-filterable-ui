@@ -1,0 +1,60 @@
+{
+  "job_change_detected": false,
+  "status": "NEVER_WORKED_THERE",
+  "summary": "Jesse Ouellette has never worked at Smartlead according to their comprehensive employment history. They are currently working at Leadmagic as Founder for 3 years. Their complete employment history shows experience at Leadmagic, Pavilion, Startree, and 7 other companies. The expected company does not appear in any current or past positions, confirming they have never been employed there.",
+  "employee_name": "Jesse Ouellette",
+  "expected_company": "Smartlead",
+  "current_company": "Leadmagic",
+  "current_position": {
+    "title": "Founder",
+    "company": "Leadmagic",
+    "start_date": "Sep 2022",
+    "days_at_job": 1111,
+    "tenure_formatted": "3 years",
+    "is_current_position": true
+  },
+  "tenure_stats": {
+    "average_tenure_months": 26,
+    "average_tenure_formatted": "2 years 2 months",
+    "total_positions": 10,
+    "longest_tenure_months": 73,
+    "longest_tenure_formatted": "6 years 1 month",
+    "shortest_tenure_months": 1,
+    "shortest_tenure_formatted": "1 month"
+  },
+  "work_history": [
+    {
+      "title": "Founder",
+      "company": "Leadmagic",
+      "duration": "Sep 2022 - Present",
+      "is_present": true
+    },
+    {
+      "title": "Executive Member",
+      "company": "Pavilion",
+      "duration": "Aug 2019 - Present",
+      "is_present": true
+    },
+    {
+      "title": "Advisor",
+      "company": "Startree",
+      "duration": "Feb 2023 - Jan 2024",
+      "is_present": false
+    },
+    {
+      "title": "Advisor",
+      "company": "Sales Community",
+      "duration": "May 2020 - Dec 2023",
+      "is_present": false
+    },
+    {
+      "title": "Advisor",
+      "company": "Astronomer",
+      "duration": "Jul 2020 - Sep 2023",
+      "is_present": false
+    }
+  ],
+  "profile_found": true,
+  "profile_url": "https://www.linkedin.com/in/jesseoue/",
+  "credits_consumed": 2
+}
