@@ -1,0 +1,138 @@
+{
+  "ads": [
+    [
+      {
+        "adid": "0",
+        "adArchiveID": "618153827656899",
+        "archiveTypes": [],
+        "categories": [
+          0
+        ],
+        "containsDigitallyCreatedMedia": false,
+        "containsSensitiveContent": false,
+        "collationCount": 1,
+        "collationID": 1015196963820298,
+        "currency": "",
+        "endDate": 1741248000,
+        "entityType": "person_profile",
+        "fevInfo": null,
+        "finServAdData": {
+          "is_deemed_finserv": false,
+          "is_limited_delivery": false
+        },
+        "gatedType": "eligible",
+        "hasUserReported": false,
+        "hiddenSafetyData": false,
+        "hideDataStatus": "NONE",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "isAAAEligible": true,
+        "isAdAccountActioned": false,
+        "isActive": true,
+        "isProfilePage": false,
+        "pageID": "105549201674375",
+        "pageInfo": null,
+        "pageIsDeleted": false,
+        "pageName": "Lykkedal Retreat",
+        "politicalCountries": [],
+        "reachEstimate": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "reportCount": null,
+        "snapshot": {
+          "ad_creative_id": 1159245568945589,
+          "cards": [],
+          "body_translations": {},
+          "byline": null,
+          "caption": "ezme.io",
+          "cta_text": "Buy tickets",
+          "dynamic_item_flags": {},
+          "dynamic_versions": null,
+          "edited_snapshots": [],
+          "effective_authorization_category": "NONE",
+          "event": {
+            "event_promoted_type": "external_tickets",
+            "event_start_timestamp": 1742130000,
+            "event_end_timestamp": 1742137200,
+            "event_location": "Dalvej 5, Helsinge",
+            "event_timezone": "Europe/Copenhagen"
+          },
+          "extra_images": [],
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_videos": [],
+          "instagram_shopping_products": [],
+          "display_format": "event",
+          "title": "Yin Yoga & Yoga Nidra til Gong",
+          "link_description": "Dalvej 5, Helsinge",
+          "link_url": "https://ezme.io/c/xHa/3KPb",
+          "page_welcome_message": null,
+          "images": [
+            {
+              "original_image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/481787314_4001422706744378_5754827939445302437_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oLiF-cU0WxgQ7kNvgEM6GgD&_nc_oc=AdgH2C1dxKtFX8-Nb0xC8YJj9RAGxYUVx4s72-vlBMvSF8NqRSDRTgLtQ49bxn4GKvU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=AxNB6smfEOXOGrm59sveePu&oh=00_AYFCcwS06k5-Zs4REiVNPyDBnDiH2m3ry6__l8b-xYVnNw&oe=67D010D7",
+              "resized_image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/482055202_1183219813458252_5286390622516633466_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UpMVtSZb0FoQ7kNvgGYCYSO&_nc_oc=AdioNK9N0BC6jFliPpZBoCB7q8c6RxzPm1sjxYyWN8gW1fEzj5ort06-PEXPS9aRQtY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=AxNB6smfEOXOGrm59sveePu&oh=00_AYET5FXrho887m4dU5OxwmVKM8nNNYMDyPzbcrFDRHPNkQ&oe=67CFD900",
+              "watermarked_resized_image_url": "",
+              "image_crops": {}
+            }
+          ],
+          "videos": [],
+          "creation_time": 1741291804,
+          "page_id": 105549201674375,
+          "page_name": "Lykkedal Retreat",
+          "page_profile_picture_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/482021866_1335378004273354_6611332374691484765_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9OkGTrz7rR0Q7kNvgG57RTD&_nc_oc=AdhR7nxSqcwLeXf4E6zMven92LUORzNF9f6UG5HdXPkNcCJwnCvuJsEFIkd2qEkf1mc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=AxNB6smfEOXOGrm59sveePu&oh=00_AYHvvv7TVyYBBZbUWdFtsMMF1Zw19HFrCguT8PizFkDG-w&oe=67CFF9CB",
+          "page_categories": {
+            "1215982301785137": "Meditation Center"
+          },
+          "page_entity_type": "person_profile",
+          "page_is_profile_page": false,
+          "instagram_actor_name": "🔆 ET LIV I BALANCE 🔆",
+          "instagram_profile_pic_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/482221977_1473904650233662_1812261223336634635_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pt8glJ939ioQ7kNvgEhv2uO&_nc_oc=Adi7fFY9dROfonTLhbM1HQhTr-sBDcj7xGQeKttehNVcjEKjKkBqWDm69xB9k8lQLk4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=AxNB6smfEOXOGrm59sveePu&oh=00_AYH7uq0g9Ag0DFiPvgZdXyt_1LXYO8ZrWuCq--rMrhWQfw&oe=67CFE12C",
+          "instagram_url": "",
+          "instagram_handle": "",
+          "is_reshared": false,
+          "version": 3,
+          "body": {
+            "context": {},
+            "markup": {
+              "__html": "🌿 Yin Yoga &amp; Gong Meditation i jurten på Lykkedal Retreat 🌿<br /> <br /> Trænger du til en dyb pause, hvor krop og sind får lov at give slip og finde ro? ✨<br /> <br /> 🧘‍♀️ Yin Yoga er en blid, meditativ yogaform, der arbejder med kroppens bindevæv, led og energibaner gennem lange, rolige stræk. Stillingerne holdes i flere minutter, så kroppen får tid til at slippe spændinger og finde dybere afslapning. Alle kan være med – uanset erfaring.<br /> <br /> 🎶 Gong Meditation fordyber din afslapning gennem dybe, vibrerende lyde, der beroliger nervesystemet og inviterer sindet til at give slip. Mange oplever en følelse af lethed, ro og fornyet energi efter en gongmeditation.<br /> <br /> 📅 Dato: Søndag d. 16. marts<br /> ⏰ Tid: Kl. 14:00 - 16:00<br /> 📍 Sted: Lykkedal Retreat, Dalvej 5, Helsinge<br />       Pris: 275 kr.<br /> <br /> 🌿 Efter workshoppen byder vi på økologisk urtete og lækre snacks i vores hyggelige skovcafé. Her kan du nyde en stille stund og mærke effekten af din praksis. Tag en mindful gåtur i naturen og hils på dyrene – en smuk måde at afslutte dagen på.<br /> <br /> 🔔 Alle er velkomne – uanset erfaring! 🔔<br /> <br /> 💚 Tilmelding &amp; info:<br /> 📩 Send besked til Natassia på info&#064;lykkedalretreat.dk eller tlf. 2390 7473<br /> <br /> 🌾 Lykkedal Retreat – en perle i Nordsjællands natur 🌾<br /> Her finder du åbne marker med heste, høje træer og den smukke gamle Pibe Mølle. Workshoppen afholdes i den stemningsfulde jurt/rundsal, hvor du kan fordybe dig i ro og nærvær.<br /> <br /> ✨ Tidligere deltagere siger:<br /> 🌟 &quot;Lykkedal er et åndehul i naturen&quot;<br /> 🌟 &quot;Jeg kom hjem i mig selv&quot;<br /> 🌟 &quot;Jeg havde glemt, hvor meget jeg savner naturen&quot;<br /> <br /> 📩 Book din plads i dag – vi glæder os til at byde dig velkommen!<br /> <br /> #YinYoga #GongMeditation #LykkedalRetreat #IndreRo #NaturligBalance #Mindfulness #Selvforkælelse #TidTilDigSelv"
+            },
+            "callerHash": "c339298372ed2a9ebf3ad02f136b05d2"
+          },
+          "brazil_tax_id": null,
+          "branded_content": null,
+          "current_page_name": "Lykkedal Retreat",
+          "disclaimer_label": null,
+          "page_like_count": 1198,
+          "page_profile_uri": "https://facebook.com/LykkedalRetreat",
+          "page_is_deleted": false,
+          "root_reshared_post": null,
+          "cta_type": "BUY_TICKETS",
+          "additional_info": null,
+          "ec_certificates": null,
+          "country_iso_code": null,
+          "instagram_branded_content": null
+        },
+        "spend": null,
+        "startDate": 1741248000,
+        "stateMediaRunLabel": null,
+        "publisherPlatform": [
+          "facebook",
+          "instagram"
+        ],
+        "menuItems": [],
+        "targetedOrReachedCountries": [],
+        "totalActiveTime": 7915
+      }
+    ]
+  ],
+  "credits_consumed": 2.6
+}
