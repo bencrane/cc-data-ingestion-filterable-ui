@@ -1,0 +1,37 @@
+{
+  "ads": [
+    {
+      "advertiser_id": "AR14106062795078369281",
+      "creative_id": "CR14003695067076755457",
+      "original_url": "https://adstransparency.google.com/advertiser/AR14106062795078369281/creative/CR14003695067076755457?region=anywhere",
+      "variants": [
+        {
+          "content": "<img src=\"https://tpc.googlesyndication.com/archive/simgad/6399633577457746150\" height=\"173\" width=\"380\">",
+          "height": 173,
+          "width": 380
+        }
+      ],
+      "start": "2024-07-03",
+      "last_seen": "2025-03-06",
+      "advertiser_name": "Gong.io Inc",
+      "format": "Text"
+    },
+    {
+      "advertiser_id": "AR14106062795078369281",
+      "creative_id": "CR16065875974473908225",
+      "original_url": "https://adstransparency.google.com/advertiser/AR14106062795078369281/creative/CR16065875974473908225?region=anywhere",
+      "variants": [
+        {
+          "content": "<img src=\"https://tpc.googlesyndication.com/archive/simgad/14075255850026292628\" height=\"173\" width=\"380\">",
+          "height": 173,
+          "width": 380
+        }
+      ],
+      "start": "2025-02-04",
+      "last_seen": "2025-03-06",
+      "advertiser_name": "Gong.io Inc",
+      "format": "Text"
+    }
+  ],
+  "credits_consumed": 8
+}
