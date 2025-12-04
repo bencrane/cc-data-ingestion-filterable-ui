@@ -1,0 +1,49 @@
+{
+  "adDetails": {
+    "ads_type": "Video Ad",
+    "content": "Start your day knowing what deals you need to focus on instead of opening up a dozen tabs in your CRM.",
+    "image": null,
+    "heading": "See how Gong can help you achieve your revenue goals",
+    "sub_heading": null,
+    "availability_duration": null,
+    "cta": {
+      "button_text": "Learn more",
+      "link": "https://www.gong.io/why-gong/?trk=ad_library_ad_preview_headline_content"
+    },
+    "video": {
+      "video_thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQGzuzrGo4HoHw/videocover-high/videocover-high/0/1729725542194/InstantDemoStartofDaymp4?e=2147483647&v=beta&t=mu3nEXijLeoh_jU49uhAGqgEWlVrH5j7oT4B4UBgezk",
+      "data_sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D10AQGzuzrGo4HoHw/progressive-servable-video/progressive-servable-video/0/1729725541436/InstantDemoStartofDaymp4?e=2147483647&v=beta&t=OIP5SAQ2zRwNyY97Sgh0RRDUZqZvFYW0MUDHP5F8Q54",
+          "bitrate": 6284199
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D10AQGzuzrGo4HoHw/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1729725548053/InstantDemoStartofDaymp4?e=2147483647&v=beta&t=9cV-2R6MxcHoetYcg1Wuos9Wyi73haSAIgzlFFe4Izc",
+          "bitrate": 245220
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D10AQGzuzrGo4HoHw/mp4-360p-30fp-crf28/mp4-360p-30fp-crf28/0/1729725547788/InstantDemoStartofDaymp4?e=2147483647&v=beta&t=xSM4xV1YorfPdlNWuSYqg9nacRTLE0F_DkLzdK9mgdQ",
+          "bitrate": 109857
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D10AQGzuzrGo4HoHw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1729725549253/InstantDemoStartofDaymp4?e=2147483647&v=beta&t=f_bLk9pQQU8O5XoBapMPtqz-bZD6RQqTVLYkrYSAnlU",
+          "bitrate": 316022
+        }
+      ]
+    },
+    "total_impressions": null,
+    "country_impressions": [],
+    "targeting_language": null,
+    "targeting_location": null,
+    "organization": {
+      "linkedin": "https://www.linkedin.com/company/10454372?trk=ad_library_about_ad_advertiser",
+      "advertiser": "Gong"
+    },
+    "about_ad_paying_entity": "Paid for by Gong.io Inc."
+  },
+  "credits_consumed": 2
+}
