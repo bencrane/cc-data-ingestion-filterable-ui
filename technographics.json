@@ -1,0 +1,24 @@
+{
+  "credits_consumed": 1,
+  "message": "Technology stack information retrieved successfully",
+  "data": [
+    {
+      "name": "Google Analytics",
+      "description": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.",
+      "categories": [
+        "Analytics",
+        "Marketing"
+      ],
+      "sub_technologies": [
+        {
+          "name": "Google Analytics 4",
+          "description": "The latest version of Google Analytics with enhanced privacy features",
+          "categories": [
+            "Analytics",
+            "Privacy-focused"
+          ]
+        }
+      ]
+    }
+  ]
+}
