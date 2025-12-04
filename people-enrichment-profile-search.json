@@ -1,0 +1,51 @@
+{
+  "profile_url": "https://www.linkedin.com/in/jesseoue/",
+  "credits_consumed": 1,
+  "first_name": "Jesse",
+  "last_name": "Ouellette",
+  "full_name": "Jesse Ouellette",
+  "professional_title": "Growth & AI Expert | Founder LeadMagic",
+  "bio": "SaaS Founder",
+  "company_name": "LeadMagic",
+  "company_industry": "Internet",
+  "company_website": "leadmagic.io",
+  "total_tenure_months": "205",
+  "total_tenure_days": "6240",
+  "total_tenure_years": "17",
+  "followers_range": "45K-50K",
+  "personal_website": {
+    "name": "https://leadmagic.io",
+    "link": "https://leadmagic.io"
+  },
+  "country": "United States",
+  "location": "Greater Boston",
+  "work_experience": [
+    {
+      "position_title": "Founder",
+      "company_name": "LeadMagic",
+      "employment_period": "Sep 2022 - Present · 3 yrs 2 mos",
+      "company_website": "leadmagic.io",
+      "company_logo_url": "https://logo.leadmagic.io/leadmagic.io"
+    }
+  ],
+  "education": [
+    {
+      "institution_name": "University of Maine",
+      "degree": "University of Maine",
+      "attendance_period": ""
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "Revenue Architect",
+      "issuing_organization": "Winning by Design",
+      "issue_date": "Issued Nov 2020"
+    }
+  ],
+  "honors": [
+    {
+      "title": "Hortonworks - MVP NorthEast - Region - 2016",
+      "description": "Issued by Hortonworks · Jan 2016"
+    }
+  ]
+}
