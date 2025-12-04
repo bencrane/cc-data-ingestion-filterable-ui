@@ -1,0 +1,68 @@
+{
+  "competitors": [
+    {
+      "name": "Gong",
+      "shortDescription": "Gong.io is a company that develops a conversation intelligence platform for B2B sales teams. ",
+      "founded_year": "2015",
+      "companyType": "private",
+      "hq": "San Francisco, US",
+      "employeesCount": 1504,
+      "valuation": 7250000000,
+      "tags": [
+        {
+          "name": "Technology",
+          "slug": "technology",
+          "primary": true
+        }
+      ],
+      "twitter_followers": 7611,
+      "growth": 1,
+      "non_hq_locations": [
+        "Dublin, IE",
+        "Ramat Gan, IL",
+        "Atlanta, US",
+        "Chicago, US"
+      ],
+      "more_locations": false,
+      "financial_metrics": {
+        "currency_code": "USD",
+        "period": "Y, 2020",
+        "revenue": 37500000,
+        "cost_of_goods_sold": null,
+        "gross_profit": null,
+        "net_income": null
+      },
+      "operating_metrics": [
+        {
+          "period": "Dec, 2019",
+          "value": "700.0",
+          "definition": "Enterprise Customers",
+          "operating_metric_group": "Customers",
+          "currency_code": null
+        }
+      ],
+      "funding_metrics": {
+        "date": "about 3 years",
+        "latest": 250000000,
+        "currency_code": "USD",
+        "total": 581000000
+      },
+      "twitterEngagement": {
+        "handle": "Gong_io",
+        "analytics": [
+          {
+            "collectedAt": "2023-07-12T00:00:00",
+            "tweets": 6384,
+            "following": 1854,
+            "followers": 7611,
+            "tweetsForPeriod": 0,
+            "avgTweetsPerDay": 0,
+            "avgRetweetsPerTweet": 0,
+            "avgLikesPerTweet": 0,
+            "tweetsPercentageEngagementForPeriod": 0
+          }
+        ]
+      }
+    }
+  ]
+}
