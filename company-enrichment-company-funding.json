@@ -1,0 +1,223 @@
+{
+  "basicInfo": {
+    "companyName": "Gong.io Ltd",
+    "description": "Gong.Io is a California-based AI revenue intelligence platform that provides solutions such as sales enablement and data analytics for businesses.",
+    "shortName": "Gong",
+    "founded": "2015",
+    "headquarters": {
+      "city": "Palo Alto",
+      "state": "California",
+      "country": "USA",
+      "fullAddress": "Palo Alto, California, USA"
+    },
+    "primaryDomain": "gong.io",
+    "phone": "1-650-276-3068",
+    "status": "NEW",
+    "followers": 2422,
+    "ownership": "Private"
+  },
+  "financialInfo": {
+    "revenue": 178000000,
+    "formattedRevenue": "178M",
+    "totalFunding": 584000000,
+    "formattedFunding": "584M",
+    "lastFundingRound": {
+      "round": "Series E",
+      "date": "2021-05-01T00:00:00.000Z",
+      "amount": 250000000
+    }
+  },
+  "fundingHistory": [
+    {
+      "round": "Series E",
+      "date": "2021-05-01T00:00:00.000Z",
+      "amount": "$250,000,000",
+      "investors": [
+        "Franklin Templeton",
+        "Coatue",
+        "Sequoia",
+        "Thrive Capital",
+        "Tiger Global"
+      ]
+    },
+    {
+      "round": "Series D",
+      "date": "2020-08-01T00:00:00.000Z",
+      "amount": "$200,000,000",
+      "investors": [
+        "Coatue",
+        "Index Ventures",
+        "Thrive Capital",
+        "Battery Ventures",
+        "NextWorld Capital",
+        "Norwest Venture Partners",
+        "Sequoia Capital",
+        "Wing Venture Capital"
+      ]
+    },
+    {
+      "round": "Series C",
+      "date": "2019-12-01T00:00:00.000Z",
+      "amount": "$65,000,000",
+      "investors": [
+        "Sequoia Capital",
+        "Battery Ventures",
+        "Norwest Venture Partners",
+        "Wing Venture Capital",
+        "NextWorld Capital",
+        "Cisco Investments"
+      ]
+    }
+  ],
+  "companySize": {
+    "employees": 1100,
+    "employeeRange": "1,000 - 5,000",
+    "employeeGrowth": "N/A"
+  },
+  "leadership": {
+    "ceo": {
+      "firstName": "Amit",
+      "lastName": "Bendov",
+      "designation": "Co-Founder & CEO",
+      "linkedIn": "https://www.linkedin.com/in/amitbendov",
+      "twitter": "https://twitter.com/banditmove"
+    }
+  },
+  "industryAndSectors": {
+    "industrySectors": [
+      "Sales Enablement Software",
+      "Business Intelligence (BI)"
+    ],
+    "industries": [
+      "Software, Internet & Computer Services"
+    ],
+    "technologyStack": "N/A"
+  },
+  "topCompetitors": [
+    {
+      "name": "BoostUp",
+      "revenue": "$6",
+      "employees": "85",
+      "totalFunding": "$425",
+      "headquarters": {
+        "city": "Santa Clara",
+        "state": "US-CA",
+        "country": "USA",
+        "fullAddress": "Santa Clara, US-CA, USA"
+      },
+      "founded": "2018-01-01T00:00:00.000Z",
+      "ownership": "Private",
+      "website": "https://www.boostup.ai"
+    },
+    {
+      "name": "ExecVision",
+      "revenue": "$43",
+      "employees": "31",
+      "totalFunding": "$81",
+      "headquarters": {
+        "city": "Arlington",
+        "state": "US-VA",
+        "country": "USA",
+        "fullAddress": "Arlington, US-VA, USA"
+      },
+      "founded": "2015-01-01T00:00:00.000Z",
+      "ownership": "Private",
+      "website": "https://www.execvision.io"
+    },
+    {
+      "name": "Seismic",
+      "revenue": "$375",
+      "employees": "1,000",
+      "totalFunding": "$940",
+      "headquarters": {
+        "city": "San Diego",
+        "state": "US-CA",
+        "country": "USA",
+        "fullAddress": "San Diego, US-CA, USA"
+      },
+      "founded": "2010-01-01T00:00:00.000Z",
+      "ownership": "Private",
+      "website": "https://seismic.com"
+    }
+  ],
+  "acquisitions": [
+    {
+      "companyName": "Vayo",
+      "acquisitionDate": "2020-09-01T00:00:00.000Z",
+      "description": "Vayo is a SaaS-based firm that analyzes, integrates and converts customer data into actionable insights for business",
+      "source": "https://techcrunch.com/2020/09/01/fresh-off-200m-series-d-gong-acquires-early-stage-startup-vayo"
+    },
+    {
+      "companyName": "ONDiGO",
+      "acquisitionDate": "2018-04-01T00:00:00.000Z",
+      "description": "ONDiGO is a CRM platform that offers customer retention and management services to professionals and micro-businesses.",
+      "source": "https://www.prnewswire.com/news-releases/gongio-acquires-ondigo-to-extend-its-conversation-intelligence-platform-300630168.html"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/gong_io"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/To.GongIO"
+    },
+    {
+      "platform": "linkedIn",
+      "url": "https://www.linkedin.com/company/gong-io"
+    }
+  ],
+  "news": [
+    {
+      "title": "Gong: Gong Named to the Forbes Cloud 100 for the Fifth Consecutive Year",
+      "source": "Martech Cube",
+      "date": "2024-08-07T08:40:00.000Z"
+    },
+    {
+      "title": "Gong: Demandbase Integrates with Gong",
+      "source": "destinationCRM",
+      "date": "2024-06-26T22:15:00.000Z"
+    },
+    {
+      "title": "Gong: Gong Named \"Best AI-Based Solution for Sales\" in 2024 AI Breakthrough Awards",
+      "source": "Yahoo",
+      "date": "2024-06-26T00:00:00.000Z"
+    }
+  ],
+  "pressReleases": [
+    {
+      "title": "Press Release: Gong : Madison Logic Partners with Gong to Enhance Revenue Workflows Through Combined Account Intelligence",
+      "source": "StreetInsider",
+      "date": "2024-10-17T22:21:00.000Z"
+    },
+    {
+      "title": "Press Release: Gong : Gong Named a Winner in The Cloud Awards Inaugural AI Awards",
+      "source": "PR Newswire",
+      "date": "2024-10-09T18:28:00.000Z"
+    },
+    {
+      "title": "Press Release: Gong : Independent Research Firm Names Gong a Leader in Revenue Orchestration Platforms",
+      "source": "StreetInsider",
+      "date": "2024-09-04T18:50:00.000Z"
+    }
+  ],
+  "keyHighlights": [
+    {
+      "type": "partnership",
+      "text": "Madison Logic Partners with Gong to Enhance Revenue Workflows Through Combined Account Intelligence",
+      "date": "2024-10-17T22:21:00.000Z",
+      "src": "https://www.streetinsider.com/Press+Releases/Madison+Logic+Partners+with+Gong+to+Enhance+Revenue+Workflows+Through+Combined+Account+Intelligence/23847515.html",
+      "source": "StreetInsider"
+    },
+    {
+      "type": "ai",
+      "text": "Gong Named a Winner in The Cloud Awards Inaugural AI Awards",
+      "date": "2024-10-09T18:28:00.000Z",
+      "src": "https://www.prnewswire.com/news-releases/gong-named-a-winner-in-the-cloud-awards-inaugural-ai-awards-302271451.html",
+      "source": "PR Newswire"
+    }
+  ],
+  "summarySection": "Gong.Io is a California-based AI revenue intelligence platform that provides solutions such as sales enablement and data analytics for businesses. Gong was founded in 2015. Gong's headquarters is located in Palo Alto, California, USA 94306.  Gong's Co-Founder & CEO, Amit Bendov, currently has an approval rating of 82%. 50% of the Owler community believes Gong will IPO. Gong has an estimated 1.1K employees and an estimated annual revenue of 178.0M.",
+  "credits_consumed": 4
+}
